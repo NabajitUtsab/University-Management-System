@@ -131,15 +131,6 @@ javac *.java
 java UniversityManagement
 
 
-📁 Project Structure
-📦 UniversityManagementSystem
- ┣ 📜 Identifiable.java
- ┣ 📜 Person.java
- ┣ 📜 Student.java
- ┣ 📜 Faculty.java
- ┣ 📜 Course.java
- ┗ 📜 UniversityManagement.java
-
    
   
 
